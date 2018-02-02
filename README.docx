@@ -1,0 +1,13 @@
+# An-Instant-Messagin-Systems---JAVA-Socket-Programming
+
+System Requirements:
+•	Language used : JAVA
+•	IDE used : command prompt
+•	Operating system : Windows
+
+Key Features Implemented (Implemented both extra credit features):
+•	Server is multithreaded and synchronized to serve multiple pairs of clients at the same time.
+•	On the server you can see the http response for the sent message with the correct sender id and message with status code.
+•	Multiple pair of clients can chat at the same time in separate chatrooms.
+•	Also implemented the extra feature of keeping the database of all the users who are online.
+•	I have used port number 8091 because my port 80 is busy which is reserved for web.
